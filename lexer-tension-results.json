@@ -1,0 +1,36 @@
+{
+  "vocab_size": 19,
+  "token_counts": {
+    "well_formed_js": 274,
+    "obfuscated_js": 111,
+    "python": 620
+  },
+  "spectral_gaps": {
+    "well_formed": 0.06212873887770329,
+    "obfuscated": 0.06405408566295273
+  },
+  "best_conservation_direction": "PC4",
+  "best_conservation_ratio": 0.42356618040461247,
+  "optimal_ordering": [
+    "LBRACKET",
+    "LPAREN",
+    "OP3",
+    "NUMBER",
+    "OP2",
+    "OP",
+    "DOT",
+    "IDENT",
+    "COMMA",
+    "RBRACKET",
+    "STRING",
+    "RPAREN",
+    "KEYWORD",
+    "COLON",
+    "SEMI",
+    "NL",
+    "COMMENT",
+    "RBRACE",
+    "LBRACE"
+  ],
+  "anomaly_detection": "conservation spike at well-formed/obfuscated boundary"
+}

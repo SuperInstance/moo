@@ -1,2 +1,4 @@
 node_modules/
 
+moo-rust/target/
+node_modules/
