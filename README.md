@@ -383,3 +383,4 @@ Do check the [FAQ](https://github.com/tjvr/moo/issues?q=label%3Aquestion).
 
 Before submitting an issue, [remember...](https://github.com/tjvr/moo/blob/master/.github/CONTRIBUTING.md)
 
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
